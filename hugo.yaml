@@ -1,0 +1,56 @@
+baseURL: "https://devacceleration.studio/"
+languageCode: en-us
+title: DevAcceleration Studio
+theme: hugo-theme-stack
+
+params:
+  mainSections:
+    - posts
+  featuredImageField: image
+  rssFullContent: true
+  favicon: /img/logo.png
+  logo:
+    path: /img/logo.png
+    width: 40
+    height: 40
+
+  sidebar:
+    emoji: 🚀
+    subtitle: "Accelerating Software Development"
+    avatar: "img/logo.png"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+      params:
+        icon: home
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+      params:
+        icon: user
+
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 3
+      params:
+        icon: archives
+
+social:
+  - identifier: github
+    name: GitHub
+    url: https://github.com/
+    params:
+      icon: brand-github
+
+  - identifier: linkedin
+    name: LinkedIn
+    url: https://linkedin.com/
+    params:
+      icon: link
