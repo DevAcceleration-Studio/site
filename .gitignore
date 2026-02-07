@@ -1,0 +1,17 @@
+# Hugo default output
+/public
+/resources/_gen
+/assets/jsconfig.json
+hugo_stats.json
+.hugo_build.lock
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# NodeJS
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
