@@ -19,6 +19,9 @@ params:
     subtitle: "High quality custom software applications"
     avatar: "img/logo.png"
 
+  article:
+    readingTime: false
+
 menu:
   main:
     - identifier: home

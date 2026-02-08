@@ -1,7 +1,6 @@
 ---
 title: "Architecture Review"
 description: "Comprehensive analysis of your software architecture."
-date: 2024-01-01T00:00:00Z
 image:
 categories:
     - Services

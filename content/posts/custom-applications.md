@@ -1,7 +1,6 @@
 ---
 title: "Custom Applications"
 description: "Scalable and robust application development."
-date: 2024-01-03T00:00:00Z
 image:
 categories:
     - Services

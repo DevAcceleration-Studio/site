@@ -1,7 +1,6 @@
 ---
 title: "Custom Websites"
 description: "Tailored website solutions for your business."
-date: 2024-01-04T00:00:00Z
 image:
 categories:
     - Services
